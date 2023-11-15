@@ -27,7 +27,7 @@ This a full stack MERN Ecommerce website built using :Reactjs , Nodejs, Javascri
  - Framework: Reactjs
  - State management: Context API
  - Payment: Braintree
- - Icons: MUI Material ui
+ - Icons: Material UI
  - Styling: Bootstrap
 ### For backend:
  - NodeJs
