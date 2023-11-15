@@ -23,19 +23,19 @@ This a full stack MERN Ecommerce website built using :Reactjs , Nodejs, Javascri
   - `npm run dev`
  
 ## Tech Stack
-- For frontend:
+### For frontend:
  - Framework: Reactjs
  - Payment: Braintree
  - Icons: MUI Material ui
  - Styling: Bootstrap
--For backend:
+### For backend:
  - NodeJs
  - ExpressJs
  - Database: Mongodb
  - Auhthenation: JWT
 ## Demo
 Watch the live demo of the website by clicking on the given link below:
--https://myshopecommerceapp.cyclic.app/product/IndiaMart-sweatshirt
+-https://myshopecommerceapp.cyclic.app
 
 
 
